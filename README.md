@@ -13,7 +13,8 @@ Description
 
 
 Output:
-yaml
+
 Index of 30: 3
+
 Final list: [10, 15, 20, 30, 40, 50, 60]
 
