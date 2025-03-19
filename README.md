@@ -10,3 +10,10 @@ Description
 5. Remove the last element from my_list.
 6. Sort my_list in ascending order.
 7. Find and print the index of the value 30 in my_list.
+
+
+Output:
+yaml
+Index of 30: 3
+Final list: [10, 15, 20, 30, 40, 50, 60]
+
